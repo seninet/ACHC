@@ -143,6 +143,16 @@ h6,
         font-weight: 300 !important;
     }
 
+    .img{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .serviceBox{
+        height: 2400px;
+    
+    }
+
     .carousel-caption h1 {
         font-size: 20px;
         font-weight: 500 !important;
@@ -326,3 +336,4 @@ h6,
     width: 120px;
     height: 120px;
 }
+
